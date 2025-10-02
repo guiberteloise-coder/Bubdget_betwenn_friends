@@ -1,26 +1,26 @@
 # Bubdget_betwenn_friends
 
-📌 Contexte
+## 📌 Contexte
 Ce projet est le premier projet que je mène dans le domaine de la Data.
 
-🎯 Objectifs
-Explorer et nettoyer le dataset.
-Identifier les tendances principales.
-Créer des visualisations claires.
+## 🎯 Objectifs
+- Explorer et nettoyer le dataset.
+- Identifier les tendances principales.
+- Créer des visualisations claires.
 
-🗂️ Données
-Source : Jedha
+## 🗂️ Données
+- Source : Jedha
 
-🛠️ Outils utilisés
-Python
-VSCode
+## 🛠️ Outils utilisés
+- Python
+- VSCode
 
-📊 Résultats
+## 📊 Résultats
 C'est un premier essai qui m'encourage dans cette voie.
 
-🚀 Prochaines étapes
-Continuer de m'améliorer
+## 🚀 Prochaines étapes
+- Continuer de m'améliorer
 
-👤 Auteur
-Projet réalisé par Eloïse Guibert dans le cadre de mon portfolio Data Analyst.
-📫 LinkedIn | Email
+## 👤 Auteur
+Projet réalisé par **Eloïse Guibert** dans le cadre de mon portfolio Data Analyst.  
+📫 [LinkedIn](www.linkedin.com/in/eloïse-guibert-073701380) | [Email](guibert.eloise@gmail.com)
